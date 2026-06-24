@@ -1,34 +1,21 @@
-<h1 align="center">📱 Exercícios em Kotlin</h1>
+# 🎯 Exercicios_em_Kotlin
 
-<p align="center">
-  <img src="https://img.shields.io/badge/linguagem-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
-
-Repositório com **exercícios em Kotlin** voltados ao desenvolvimento da lógica de programação e à consolidação dos conceitos fundamentais da linguagem.
+Este repositório contém o mapeamento, a estruturação cronológica e os scripts de implementação prática para o ecossistema de aprendizado e desenvolvimento de lógica de programação utilizando a linguagem Kotlin.
 
 ---
 
 ## 🎯 Objetivo
 
-Aprimorar habilidades em **Kotlin** por meio da resolução de exercícios práticos, com foco em estruturas básicas, manipulação de dados e organização do código.
+O propósito deste projeto é estruturar a arquitetura de aprendizado necessária para gerenciar a evolução de lógica conceitual e algorítmica, garantindo a fixação de estruturas condicionais, laços de repetição, coleções e manipulações matemáticas por meio de resoluções práticas organizadas por períodos mensai.
 
 ---
 
-## 📂 Estrutura dos exercícios
+## 📂 Estrutura do Repositório
 
-Os exercícios estão organizados em **pastas**, facilitando o acompanhamento da evolução. Os principais temas abordados incluem:
-
-- **Tipos de dados e variáveis**
-- **Estruturas condicionais** (`if`, `else`, `when`)
-- **Laços de repetição** (`for`, `while`)
-- **Funções**
-- **Coleções** (`List`, `Set`, `Map`)
-
-Os arquivos são nomeados conforme o tema e contêm comentários para facilitar o entendimento.
+O projeto combina a organização temporal de arquivos de código com diferentes abordagens e níveis de complexidade sintática.
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 🛠️ Tecnologias
 
-- **Kotlin**
-- **Ambiente de desenvolvimento:** IntelliJ IDEA 
+* **Kotlin (JVM)**
